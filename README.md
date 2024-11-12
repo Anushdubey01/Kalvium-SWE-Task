@@ -1,6 +1,6 @@
 # Kalvium-SWE-Task
 
-###PDF Co-Viewer
+## PDF Co-Viewer
 
 This web app enables users to upload and present PDF slide decks in real-time. Viewers can watch slides change as the presenter advances them.
 
